@@ -2,7 +2,7 @@
 📚 Atualmente estudando Front-End <br>
 📚 Ciência da Computação <br>
 💻 Trabalho como Técnico em Redes de Computadores <br>
-📌 Futuro Desenvolvedor Front
+📌 Futuro Desenvolvedor Fullstack
 
 <div>
   <a href="https://github.com/douglaskks">

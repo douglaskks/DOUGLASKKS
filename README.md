@@ -1,7 +1,7 @@
 # Bem vindo ao meu Github :)
 📚 Atualmente estudando Front-End <br>
 📚 Ciência da Computação <br>
-💻 Trabalho como Técnico de Redes de Computadores <br>
+💻 Trabalho como Técnico em Redes de Computadores <br>
 📌 Futuro Desenvolvedor Front
 
 <div>

@@ -1,4 +1,4 @@
-# Bem vindo ao meu Github :)
+# Bem vindo :)
 📚 Atualmente estudando Front-End <br>
 📚 Ciência da Computação <br>
 💻 Trabalho como Técnico em Redes de Computadores <br>

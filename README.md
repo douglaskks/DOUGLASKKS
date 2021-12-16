@@ -15,6 +15,7 @@
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Doug-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 <div align="center">
     <a href="https://www.instagram.com/doug_salviano/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-          badge&logo=instagram&logoColor=white" target="_blank"></a>

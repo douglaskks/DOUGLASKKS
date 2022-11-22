@@ -17,6 +17,7 @@
   <img align="center" alt="Doug-DART" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Doug-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Doug-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Doug-JS" height="30" width="40" src="https://online.wiseup.com/static/media/check-circle.344a2831.svg">
  </div>
   
 <div align="right">

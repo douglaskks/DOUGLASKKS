@@ -1,7 +1,8 @@
 # Bem vindo :)
 📚 Atualmente estudando Front-End <br>
 📚 Ciência da Computação <br>
-💻 Trabalho como Técnico em Redes de Computadores <br>
+💻 Técnico em Redes de Computadores <br>
+💻 Técnico em Desenvolvimento de Sistemas <br>
 📌 Futuro Desenvolvedor Fullstack
 
 <div "style:background-color: black">

@@ -1,5 +1,5 @@
 # Bem vindo :)
-📚 Atualmente estudando Front-End <br>
+📚 Atualmente estudando Back-End <br>
 📚 Ciência da Computação <br>
 💻 Técnico em Redes de Computadores <br>
 💻 Técnico em Desenvolvimento de Sistemas <br>

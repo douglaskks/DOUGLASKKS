@@ -1,4 +1,4 @@
-#Seja Bem vindo ao meu portfólio:)
+# Seja Bem vindo ao meu portfólio :)
 📚 Atualmente estudando Back-End <br>
 📚 Ciência da Computação <br>
 💻 Técnico em Redes de Computadores <br>

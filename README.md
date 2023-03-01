@@ -1,15 +1,20 @@
-# Seja Bem vindo ao meu portfólio :)
+# Seja Bem vindo ao meu portfólio
 📚 Atualmente estudando Back-End <br>
 📚 Ciência da Computação <br>
 💻 Técnico em Redes de Computadores <br>
 💻 Técnico em Desenvolvimento de Sistemas <br>
 📌 Futuro Desenvolvedor Fullstack
 
+<h1>Dados do meu portfólio</h1>
+
 <div "style:background-color: black">
   <a href="https://github.com/douglaskks">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaskks&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskks&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+<h1>Minhas Stacks</h1>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Doug-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +24,8 @@
   <img align="center" alt="Doug-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Doug-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  </div>
+  
+ <h1></h1>
   
 <div align="right">
     <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->

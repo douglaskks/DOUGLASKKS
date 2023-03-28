@@ -13,6 +13,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaskks&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=douglaskks&bg_color=000000&color=9ea5ff&line=9ea5ff&point=120099&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h1>Minhas Stacks</h1>
 
 <div style="display: inline_block"><br>

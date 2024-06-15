@@ -1,7 +1,7 @@
 # Seja Bem vindo ao meu portfólio
 📚 Atualmente estudando Back-End (Spring) <br>
 📚 Ciência da Computação <br>
-📚 Certificado AWS CCP01
+📚 Certificado AWS CCP01 <br>
 💻 Técnico em Redes de Computadores <br>
 💻 Técnico em Desenvolvimento de Sistemas <br>
 📌 Futuro Desenvolvedor Fullstack

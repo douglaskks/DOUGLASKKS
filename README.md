@@ -75,5 +75,5 @@ const douglas = {
   <em>"Bom código + bom negócio = impacto real."</em>
   <br><br>
 
-  ![Snake animation](https://raw.githubusercontent.com/douglaskks/douglaskks/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://raw.githubusercontent.com/douglaskks/douglaskks/output/github-contribution-grid-snake.gif)
 </div>
